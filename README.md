@@ -1,1 +1,1 @@
-# prosty skrypt na odradzanie się pod przycisk E
+# skrypt na odradzanie się pod przycisk E
